@@ -1,0 +1,3 @@
+Commands 
+go build
+./restAPi
